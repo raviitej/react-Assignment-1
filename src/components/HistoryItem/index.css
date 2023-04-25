@@ -1,0 +1,30 @@
+.list-container {
+  display: flex;
+  flex-direction: row;
+}
+.time {
+  width: 50px;
+  margin: 10px;
+  color: #ececec;
+}
+.logo-title-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.logoimg {
+  width: 50px;
+}
+.title {
+  font-size: 15px;
+  color: #475569;
+}
+.domainurl {
+  font-size: 15px;
+  color: #475569;
+}
+.btn {
+  outline: none;
+  cursor: pointer;
+  border: 0px;
+}
